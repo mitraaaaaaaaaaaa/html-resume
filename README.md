@@ -1,27 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mitra's Resume</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mitra's Resume</title>
 </head>
 <body>
-    <h1>Satvik S. Mitra</h1>
-    <h2>Visual Designer</h2>
-    <p>Phone: +91 8317031852, Email: satvikmitra.work@gmail.com</p>
-    <a href="https://www.behance.net/satvikmitra">My Behance</a> <br/>
-    <a href="https://www.linkedin.com/in/satvikmitra/">My Linkedin</a>
-    <hr/> <hr/>
-    <h2>Work Experience</h2>
-    <h3>Forethought India | Video production and Creative Head</h3>
-    May 2020 - May 2024
-    <p>My role at Forethought India thrives on pioneering online learning
-        experiences, where my role as Creative Head merges experimental
-        insights with graphic design and video production prowess, where we
-        crafted educational content that's not just informative, but visually
-        compelling, catering to educators from top global institutions.</p>
-
-        <h3>Roobaroo | Video Production & Design Head</h3>
+<h1>Satvik S. Mitra</h1>
+<h2>Visual Designer</h2>
+<p>Phone: +91 8317031852, Email: satvikmitra.work@gmail.com</p>
+<a href="https://www.behance.net/satvikmitra">My Behance</a> <br/>
+<a href="https://www.linkedin.com/in/satvikmitra/">My Linkedin</a>
+<hr/> <hr/>
+<h2>Work Experience</h2>
+<h3>Forethought India | Video production and Creative Head</h3>
+May 2020 - May 2024
+<p>My role at Forethought India thrives on pioneering online learning
+experiences, where my role as Creative Head merges experimental
+insights with graphic design and video production prowess, where we
+crafted educational content that's not just informative, but visually
+compelling, catering to educators from top global institutions.</p>
+<h3>Roobaroo | Video Production & Design Head</h3>
         AUG 2021 - MAY 2024
     <p>At Roobaroo, the leadership in video production and design was
         instrumental in showcasing Central India's rich culture. With a
